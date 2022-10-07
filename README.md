@@ -35,6 +35,7 @@ US
   * [SUMMER RESEARCH OPPORTUNITIES PROGRAM(SROP), Purdue University](https://www.purdue.edu/gradschool/diversity/programs/summer-research-opportunities-program/)
   * [Summer Undergraduate Research Fellowship (SURF), Stanford University](https://engineering.stanford.edu/students-academics/equity-and-inclusion-initiatives/prospective-graduate-programs/summer)
   * [IPAM UCLA Program](http://www.ipam.ucla.edu/programs/student-research-programs/)
+  * [Calctech Amgen Scholars Program](http://www.ipam.ucla.edu/programs/student-research-programs/](https://sfp.caltech.edu/undergraduate-research/programs/amgen_scholars/)
 
 SWITZERLAND
 
